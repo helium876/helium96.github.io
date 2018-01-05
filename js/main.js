@@ -5,7 +5,7 @@ $(function(){
             "Beef Patty Consumer.", 
             "Web & App Developer",
             "IEEE Student Member",
-            "IEEE UTech Student Chapter Vice Chair",
+            "IEEE UTech Student Chapter Chair",
             "UTech's Personal ATM",
             "Blog and Security Research Papers Coming Soon"
             ],
