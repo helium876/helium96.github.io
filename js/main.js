@@ -3,10 +3,9 @@ $(function(){
             strings: 
             [
             "Beef Patty Consumer.", 
-            "Web & App Developer",
-            "IEEE Student Member",
-            "IEEE UTech Student Chapter Chair",
-            "UTech's Personal ATM",
+            "Information Security Consultant",
+            "Former IEEE UTech Student Chapter Chair",
+            "UTech's Former Personal ATM",
             "Blog and Security Research Papers Coming Soon"
             ],
             contentType: 'html',
