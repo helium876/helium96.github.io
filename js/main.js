@@ -2,7 +2,7 @@ $(function(){
         $(".typed").typed({
             strings: 
             [
-            "Beef Patty Consumer.", 
+            "Cheese Patty Connoisseur", 
             "Information Security Consultant",
             "Former IEEE UTech Student Chapter Chair",
             "UTech's Former Personal ATM",
